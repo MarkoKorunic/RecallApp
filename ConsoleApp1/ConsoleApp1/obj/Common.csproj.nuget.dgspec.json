@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Rajko Pomidora\\Source\\Repos\\RecallApp3\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj": {}
+    "C:\\Users\\Rajko Pomidora\\Source\\Repos\\RecallApp3\\ConsoleApp1\\ConsoleApp1\\Common.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Rajko Pomidora\\Source\\Repos\\RecallApp3\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj": {
+    "C:\\Users\\Rajko Pomidora\\Source\\Repos\\RecallApp3\\ConsoleApp1\\ConsoleApp1\\Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Rajko Pomidora\\Source\\Repos\\RecallApp3\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
-        "projectName": "ConsoleApp1",
-        "projectPath": "C:\\Users\\Rajko Pomidora\\Source\\Repos\\RecallApp3\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectUniqueName": "C:\\Users\\Rajko Pomidora\\Source\\Repos\\RecallApp3\\ConsoleApp1\\ConsoleApp1\\Common.csproj",
+        "projectName": "Common",
+        "projectPath": "C:\\Users\\Rajko Pomidora\\Source\\Repos\\RecallApp3\\ConsoleApp1\\ConsoleApp1\\Common.csproj",
         "packagesPath": "C:\\Users\\Rajko Pomidora\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\Rajko Pomidora\\Source\\Repos\\RecallApp3\\ConsoleApp1\\ConsoleApp1\\obj\\",
         "projectStyle": "PackageReference",

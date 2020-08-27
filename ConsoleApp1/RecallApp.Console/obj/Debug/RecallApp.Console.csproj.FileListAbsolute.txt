@@ -1,0 +1,5 @@
+C:\Users\Rajko Pomidora\Source\Repos\RecallApp3\ConsoleApp1\RecallApp.Console\bin\Debug\RecallApp.Console.exe.config
+C:\Users\Rajko Pomidora\Source\Repos\RecallApp3\ConsoleApp1\RecallApp.Console\bin\Debug\RecallApp.Console.exe
+C:\Users\Rajko Pomidora\Source\Repos\RecallApp3\ConsoleApp1\RecallApp.Console\bin\Debug\RecallApp.Console.pdb
+C:\Users\Rajko Pomidora\Source\Repos\RecallApp3\ConsoleApp1\RecallApp.Console\obj\Debug\RecallApp.Console.exe
+C:\Users\Rajko Pomidora\Source\Repos\RecallApp3\ConsoleApp1\RecallApp.Console\obj\Debug\RecallApp.Console.pdb
